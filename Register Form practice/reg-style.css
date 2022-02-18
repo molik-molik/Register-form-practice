@@ -1,0 +1,9 @@
+div {
+  width: 50%;
+  border-color: lightgreen;
+  border: 2px solid;
+}
+
+button {
+  background-color: green;
+}
